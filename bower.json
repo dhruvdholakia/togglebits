@@ -1,0 +1,17 @@
+{
+  "name": "TGB",
+  "version": "0.0.0",
+  "authors": [
+    "Dhruv Dholakia <dhruvdholakia@gmail.com>"
+  ],
+  "description": "test",
+  "main": "yep",
+  "keywords": [
+    "none"
+  ],
+  "license": "MIT",
+  "homepage": "none",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.5"
+  }
+}
